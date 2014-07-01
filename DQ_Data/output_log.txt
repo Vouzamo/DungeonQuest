@@ -1,0 +1,2199 @@
+Initialize engine version: 4.1.2f1 (911c7369eeac)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumd32.dll 8.15.10.2639]
+    Renderer: Intel(R) HD Graphics 4000
+    Vendor:   Intel
+    VRAM:     880 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jaskew\Documents\Unity3D\DungeonQuest\DQ_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jaskew\Documents\Unity3D\DungeonQuest\DQ_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jaskew\Documents\Unity3D\DungeonQuest\DQ_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jaskew\Documents\Unity3D\DungeonQuest\DQ_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jaskew\Documents\Unity3D\DungeonQuest\DQ_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\jaskew\Documents\Unity3D\DungeonQuest\DQ_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\jaskew\Documents\Unity3D\DungeonQuest\DQ_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\jaskew\Documents\Unity3D\DungeonQuest\DQ_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.060 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\jaskew\Documents\Unity3D\DungeonQuest\DQ_Data\Managed\System.dll (this message is harmless)
+Room: 0, A: 9, B: 4, R: 2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:77)
+ 
+(Filename: C Line: 0)
+
+Room: 2, A: 7, B: 3, R: 2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:77)
+ 
+(Filename: C Line: 0)
+
+Room: 4, A: 5, B: 3, R: 1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:77)
+ 
+(Filename: C Line: 0)
+
+Room: 5, A: 4, B: 2, R: 1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:77)
+ 
+(Filename: C Line: 0)
+
+Room: 6, A: 3, B: 3, R: 1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:77)
+ 
+(Filename: C Line: 0)
+
+Room: 7, A: 2, B: 3, R: 1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:77)
+ 
+(Filename: C Line: 0)
+
+Room: 8, A: 1, B: 2, R: 1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:77)
+ 
+(Filename: C Line: 0)
+
+6 (8,12)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:123)
+ 
+(Filename: C Line: 0)
+
+7 (8,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:123)
+ 
+(Filename: C Line: 0)
+
+4 (9,11)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:123)
+ 
+(Filename: C Line: 0)
+
+5 (9,12)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:123)
+ 
+(Filename: C Line: 0)
+
+8 (9,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:123)
+ 
+(Filename: C Line: 0)
+
+9 (9,14)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:123)
+ 
+(Filename: C Line: 0)
+
+0 (10,10)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:123)
+ 
+(Filename: C Line: 0)
+
+2 (10,11)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:123)
+ 
+(Filename: C Line: 0)
+
+3 (10,12)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:123)
+ 
+(Filename: C Line: 0)
+
+1 (11,10)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:123)
+ 
+(Filename: C Line: 0)
+
+HIT - 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:202)
+ 
+(Filename: C Line: 0)
+
+HIT - 7
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:202)
+ 
+(Filename: C Line: 0)
+
+HIT - 4
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:202)
+ 
+(Filename: C Line: 0)
+
+HIT - 5
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:202)
+ 
+(Filename: C Line: 0)
+
+HIT - 8
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:202)
+ 
+(Filename: C Line: 0)
+
+HIT - 9
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:202)
+ 
+(Filename: C Line: 0)
+
+HIT - 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:202)
+ 
+(Filename: C Line: 0)
+
+HIT - 2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:202)
+ 
+(Filename: C Line: 0)
+
+HIT - 3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:202)
+ 
+(Filename: C Line: 0)
+
+HIT - 1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:202)
+ 
+(Filename: C Line: 0)
+
+HIT - 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:297)
+ 
+(Filename: C Line: 0)
+
+HIT - 7
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:297)
+ 
+(Filename: C Line: 0)
+
+HIT - 4
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:297)
+ 
+(Filename: C Line: 0)
+
+HIT - 5
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:297)
+ 
+(Filename: C Line: 0)
+
+HIT - 8
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:297)
+ 
+(Filename: C Line: 0)
+
+HIT - 9
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:297)
+ 
+(Filename: C Line: 0)
+
+HIT - 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:297)
+ 
+(Filename: C Line: 0)
+
+HIT - 2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:297)
+ 
+(Filename: C Line: 0)
+
+HIT - 3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:297)
+ 
+(Filename: C Line: 0)
+
+HIT - 1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:297)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,27)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,28)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,29)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,30)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,31)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,32)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,33)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,34)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,35)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,36)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,37)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,38)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,40)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,41)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,42)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,43)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,44)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,45)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,46)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,47)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,48)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,49)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,50)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (0,51)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (1,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (1,39)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (1,52)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (2,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (2,39)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (2,52)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (3,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (3,39)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (3,52)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (4,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (4,52)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (5,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (5,52)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (6,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (6,39)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (6,52)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (7,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (7,39)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (7,52)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (8,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (8,39)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (8,52)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,14)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,15)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,16)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,17)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,18)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,19)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,20)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,21)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,22)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,23)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,24)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,25)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,27)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,28)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,29)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,30)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,31)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,34)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,35)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,36)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,37)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,38)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,40)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,41)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,42)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,43)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,44)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,45)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,46)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,47)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,48)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,49)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,50)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,51)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,53)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,54)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,55)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,56)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,57)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,58)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,59)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,60)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,61)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,62)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,63)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (9,64)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (10,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (10,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (10,39)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (10,52)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (10,65)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (11,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (11,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (11,39)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (11,52)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (11,65)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (12,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (12,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (12,39)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (12,52)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (12,65)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (13,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (13,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (13,65)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (14,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (14,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (14,65)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (15,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (15,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (15,39)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (15,52)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (15,65)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (16,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (16,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (16,39)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (16,52)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (16,65)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (17,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (17,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (17,39)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (17,52)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (17,65)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,1)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,2)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,3)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,4)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,5)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,6)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,7)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,8)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,9)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,10)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,11)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,12)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,14)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,15)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,16)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,17)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,18)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,21)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,22)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,23)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,24)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,25)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,27)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,28)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,29)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,30)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,31)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,34)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,35)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,36)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,37)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,38)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,40)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,41)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,42)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,43)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,44)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,45)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,46)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,47)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,48)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,49)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,50)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,51)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,53)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,54)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,55)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,56)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,57)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,58)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,59)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,60)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,61)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,62)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,63)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (18,64)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (19,0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (19,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (19,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (19,39)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (20,0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (20,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (20,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (20,39)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (21,0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (21,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (21,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (21,39)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (22,0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (22,39)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (23,0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (23,39)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (24,0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (24,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (24,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (24,39)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (25,0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (25,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (25,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (25,39)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (26,0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (26,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (26,26)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (26,39)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,1)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,2)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,3)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,4)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,5)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,8)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,9)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,10)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,11)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,12)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,14)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,15)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,16)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,17)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,18)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,19)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,20)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,21)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,22)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,23)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,24)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,25)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,27)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,28)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,29)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,30)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,31)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,32)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,33)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,34)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,35)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,36)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,37)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (27,38)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (28,0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (28,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (29,0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (29,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (30,0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (30,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (31,0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (31,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (32,0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (32,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (33,0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (33,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (34,0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (34,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (35,0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (35,13)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (36,1)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (36,2)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (36,3)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (36,4)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (36,5)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (36,6)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (36,7)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (36,8)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (36,9)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (36,10)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (36,11)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+
+INSTANCE(WALL) - (36,12)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:Start() (at C:\Users\jaskew\Documents\Unity3D\DungeonQuest\Assets\Grid.cs:394)
+ 
+(Filename: C Line: 0)
+

@@ -1,0 +1,19 @@
+Steel Door Animation List
+
+Inwards
+Frame 005-012: snap open
+Frame 012-020: slam shut
+Frame 025-060: open slowly
+Frame 080-090: close
+
+Outwards
+Frame 090-102: snap open
+Frame 102-110: slam shut
+Frame 115-170: open slowly
+Frame 170-180: close
+
+
+Broken Steel Door Animation List
+Frame 001-015: burst open
+(there are 2 versions of this model, one opens inwards, one outwards)
+

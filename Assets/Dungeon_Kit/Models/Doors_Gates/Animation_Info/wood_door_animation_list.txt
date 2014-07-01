@@ -1,0 +1,17 @@
+Wood Door Animation List
+
+open inward
+Frame 005-012: snap open
+Frame 012-020: slam shut
+Frame 025-060: open slowly
+Frame 080-090: close
+
+open outward
+Frame 090-102: snap open
+Frame 102-110: slam shut
+Frame 115-170: open slowly
+Frame 170-180: close
+
+Broken door
+Frame 001-015: burst open inwards
+Frame 030-045: burst open outwards
